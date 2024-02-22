@@ -1,0 +1,107 @@
+body {
+  text-align: center;
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin-bottom: 55px;
+}
+
+.container {
+  border: 1px solid lightgrey;
+  margin: 10px 450px;
+}
+
+main i {
+  cursor: pointer;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+main form input {
+  margin: 3px;
+  width: 255px;
+  font-size: 11px;
+  padding: 13px 5px;
+  background-color: rgb(250, 250, 250);
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+main form button {
+  margin-top: 10px;
+  width: 270px;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 9px;
+  background-color: rgb(76, 181, 249);
+  border: 1px solid lightgrey;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+main p {
+  font-size: 12px;
+  color: rgb(128, 128, 144);
+  margin-bottom: 0px;
+}
+.second {
+  margin-bottom: 15px;
+}
+.second a {
+  text-decoration: none;
+  color: rgb(56, 81, 149);
+  font-size: 14px;
+  padding-bottom: 0px;
+}
+
+.third {
+  border: 1px solid lightgrey;
+  margin: 10px 450px;
+  padding: 22px;
+  font-size: 14px;
+}
+
+.third a {
+  color: rgb(0, 156, 246);
+  text-decoration: none;
+}
+.fourth {
+  margin: 15px;
+}
+.fourth p {
+  color: black;
+  font-size: 14px;
+}
+.fifth a {
+  margin: 6px 2px;
+}
+
+footer ul {
+  display: flex;
+  list-style-type: none;
+  margin: 13px 170px;
+  margin-top: 55px;
+  margin-right: 150px;
+}
+
+footer ul li a {
+  text-decoration: none;
+  font-size: 12px;
+  padding: 8px;
+  color: rgb(115, 115, 115);
+}
+
+footer form {
+  display: inline;
+}
+
+footer form select {
+  border: none;
+  font-size: 12px;
+  color: rgb(115, 115, 115);
+  cursor: pointer;
+}
+
+footer span {
+  font-size: 12px;
+  color: rgb(115, 115, 115);
+}
